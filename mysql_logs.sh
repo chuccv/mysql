@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#run mysql_logs on
+
 # Cấu hình MySQL
 MYSQL_USER="root"
 MYSQL_PASS="vanchuc97"  # Thay bằng mật khẩu MySQL của bạn
